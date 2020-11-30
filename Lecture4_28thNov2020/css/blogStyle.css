@@ -1,0 +1,82 @@
+/*
+ * Main CSS file for the project
+ */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+body {
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#blog-header {
+    background-color: #3F51B5;
+    color: white;
+    padding: 12px 0px;
+}
+
+.blog-title {
+    margin: 0px;
+    text-align: center;
+}
+
+#blogs-list {
+    list-style: none;
+}
+
+#blogs-list b {
+    color: #3F51B5;
+}
+
+.blog-body {
+    width: 80%;
+    margin: 20px auto;
+    display: flex;
+}
+
+.blog-body b {
+    color: #3F51B5;
+}
+
+.blog-article {
+    margin-bottom: 30px;
+}
+
+.blog-body p {
+    margin: 0px;
+}
+
+.blog-body button {
+    background-color: #3F51B5;
+    color: white;
+    padding: 5px 10px;
+    margin-top: 2px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;    
+}
+
+.blog-body button:hover {
+    background-color: #141f5b;
+}
+
+.blog-category-title {
+    color: #3F51B5;
+}
+
+.category-list {
+    list-style: none;
+    padding: 0px;
+}
+
+.blog-list-item {
+    background: aliceblue;
+    padding: 10px;
+    color: #1976D2;
+}
+
+.footer-section {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+}

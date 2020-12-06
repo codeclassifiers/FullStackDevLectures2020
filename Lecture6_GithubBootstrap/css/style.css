@@ -1,0 +1,14 @@
+.top-section-container {
+    display: flex;
+}
+
+.border {
+    border: 1px solid black;
+}
+
+.top-left-section {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}

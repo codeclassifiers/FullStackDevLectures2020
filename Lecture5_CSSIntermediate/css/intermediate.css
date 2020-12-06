@@ -1,0 +1,96 @@
+/* Nth Child selector */
+.list li:first-child {
+    color: rebeccapurple;
+    font-size: 22px;
+}
+
+.list li:last-child {
+    color: seagreen;
+    font-size: 34px;
+}
+
+.list li:nth-child(odd) {
+    color: sienna;
+}
+
+/* Background image properties */
+.image-background-container {
+    background-image: url("../images/mobile-tech.jpg");
+    text-align: center;
+    color: white;
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid crimson;
+}
+
+/* Linear gradient properties */
+.linear-gradient-container {
+    width: 300px;
+    height: 200px;
+    background: linear-gradient(to top, rgba(223, 23, 23, 0.9), rgba(223, 23, 23, 0.5), rgba(223, 23, 23, 0.3));
+    /* background-color: rgba(223, 23, 23, 0.9); */
+}
+
+/* Radial gradient properties */
+.radial-gradient-container {
+    width: 300px;
+    height: 200px;
+    background: radial-gradient(circle,rgba(255, 0, 0, 0.797) 40%, blue 75%);
+}
+
+/* Font sizes */
+.font-px {
+    font-size: 16px;
+}
+
+.font-rem {
+    font-size: 1rem;
+}
+
+/* VH and VW */
+.pixels-element-container {
+    width: 800px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+.relative-element-container {
+    margin-top: 10px;
+    width: 98vw;
+    height: 20vh;
+    border: 1px solid black;
+}
+
+/* Flexbox */
+.parent-container {
+    background-color: cornsilk;
+    display: flex;
+    flex-direction: row-reverse;
+    height: 40vh;
+}
+
+.child-container {
+    width: 100px;
+    height: 100px;
+    background-color: darkgreen;
+    margin: 10px;
+    font-size: 22px;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+/* Grid Container */
+
+.grid-container {
+    display: grid;
+    background-color: gray;
+    grid-template-columns:  auto auto auto;
+    justify-content: center;
+}
+
+.grid-image-container {
+    margin: 50px 30px;
+}

@@ -1,0 +1,39 @@
+.mobile-container {
+    margin: 50px;
+}
+
+.mobile-image {
+    width: 200px;
+    /* transition: transform 4s ease-out; */
+    /* animation-name: magnify-image;
+    animation-duration: 4s;
+    animation-timing-function: ease-out;
+    animation-delay: 5s; */
+    /* animation-iteration-count: infinite; */
+    /* animation-direction: reverse; */
+    /* animation: translate-image 4s ease-out 0s infinite; */
+}
+
+.mobile-image:hover {
+    /* width: 400px; */
+    /* transform: scale(2); */
+    /* transform: scale(3) rotate(360deg) translate(200px, 0px); */
+    transform: rotate(61deg);
+    /* transform: skew(-40deg); */
+}
+
+@keyframes translate-image {
+   0% {
+    transform: translate(0px);
+   } 
+   100% {
+    transform: translate(200px);
+   }
+   /* from {
+    transform: scale(1); 
+   }
+   to {
+    transform: scale(2);  
+   } */
+}
+

@@ -4,18 +4,18 @@
 // let profession = 'programming';
 
 // Objects
-// let personObject = {
-//     name: "Dave",
-//     age: 25,
-//     profession:"programming",
-//     lastName: "Johnson"
-// }
+let personObject = {
+    name: "Dave",
+    age: 25,
+    profession:"programming",
+    lastName: "Johnson"
+}
 
 // Dot notation
-// console.log(personObject.lastName);
+console.log(personObject.lastName);
 
 // square bracker notation
-// console.log(personObject["lastName"]);
+console.log(personObject["lastName"]);
 
 // Arrays
 let fruits = ["apples", "oranges", "pears","watermelon", "gauavas"];
@@ -23,25 +23,25 @@ let fruits = ["apples", "oranges", "pears","watermelon", "gauavas"];
 // console.log(fruits);
 
 // using index
-// fruits[4] = "watermelon";
-// console.log(fruits);
+fruits[4] = "watermelon";
+console.log(fruits);
 
 // using built in method
-// fruits.pop();
-// console.log(fruits);
+fruits.pop();
+console.log(fruits);
 
 // slice method
-// let partOfFruits = fruits.slice(1,4);
-// console.log(partOfFruits);
+let partOfFruits = fruits.slice(1,4);
+console.log(partOfFruits);
 
 // function
-// function squareOfNumber(number) {
-//     const square = number * number;
-//     console.log("The square of",number,"is", square);
-//     console.log("Thank you for using this function for printing square of", number)
-// }
+function squareOfNumber(number) {
+    const square = number * number;
+    console.log("The square of",number,"is", square);
+    console.log("Thank you for using this function for printing square of", number)
+}
 
-// squareOfNumber(3);
+squareOfNumber(3);
 
 // function printOrderStatus(isShirtAvailableInput) {
 //     if(isShirtAvailableInput) {

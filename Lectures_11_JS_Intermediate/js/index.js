@@ -45,19 +45,3 @@ fruitsArray.map(function(fruit, index){
 
 // printAllElementsOfArray(fruitsArray);
 // printAllElementsOfArray(vegetablesArray);
-
-// Accessing element in JSONs with arrays
-
-
-// Dom manipulation using Javascript
-
-function personDetails() {
-    let name = "Dave";
-    let age = 35;
-}
-
-let personObject = {
-    name: "Dave",
-    age: 35
-}
-

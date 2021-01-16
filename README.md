@@ -17,3 +17,5 @@ Repo to share code snippets covered in lectures for full stack development
 6. Github and Netlify:- [PPT](https://www.canva.com/design/DAEPjB_-fSA/fwOo8aIkQrwjT6X6dGCKtQ/view?utm_content=DAEPjB_-fSA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 7. CSS Animations:- [PPT](https://www.canva.com/design/DAEPnYpqXYU/13aYnsSuL6tkdsO4vreoiA/view?utm_content=DAEPnYpqXYU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+8. JS Concepts:- [PPT](https://www.canva.com/design/DAESIzih3O4/JoxZd0nBXV_Vyh3uC7ahWA/view?utm_content=DAESIzih3O4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)

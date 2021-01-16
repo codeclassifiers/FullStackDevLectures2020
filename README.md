@@ -15,3 +15,5 @@ Repo to share code snippets covered in lectures for full stack development
 6. Introduction to Bootstrap:- [PPT](https://www.canva.com/design/DAEO4uwdUWY/UQADHQ5yKotv8LYeF2JdZQ/view?utm_content=DAEO4uwdUWY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 6. Github and Netlify:- [PPT](https://www.canva.com/design/DAEPjB_-fSA/fwOo8aIkQrwjT6X6dGCKtQ/view?utm_content=DAEPjB_-fSA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+7. CSS Animations:- [PPT](https://www.canva.com/design/DAEPnYpqXYU/13aYnsSuL6tkdsO4vreoiA/view?utm_content=DAEPnYpqXYU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)

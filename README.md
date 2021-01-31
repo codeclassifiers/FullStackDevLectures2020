@@ -23,3 +23,8 @@ Repo to share code snippets covered in lectures for full stack development
 9. JS Concepts(Part 2):- [PPT](https://www.canva.com/design/DAETXhz0-Fg/MZJjJmT2-zwMwQ3s9olWxQ/view?utm_content=DAETXhz0-Fg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) 
 
 10. JS Concepts(Part 3):- [PPT](https://www.canva.com/design/DAEUBeABgLE/zsgMILE3bgIN7l7tNbgPug/view?utm_content=DAEUBeABgLE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+11. Introduction to Reactjs and Jquery:- [PPT](https://www.canva.com/design/DAEUsQfp5lQ/434MhQXzGV0fLaKz_dEowQ/view?utm_content=DAEUsQfp5lQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+12. React.js Fundamentals:- [PPT](https://www.canva.com/design/DAEUxOlQpHI/CgcEIWVscSEBEITolZYftw/view?utm_content=DAEUxOlQpHI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+

@@ -1,0 +1,12 @@
+.student-card {
+  width: 300px;
+  height: 300px;
+  border: 1px solid black;
+  padding: 40px;
+  margin: 40px;
+  border-radius: 10px;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  flex-direction: column;
+}

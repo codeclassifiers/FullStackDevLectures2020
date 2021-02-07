@@ -1,0 +1,16 @@
+{
+    "result": [
+        {
+            "name": "Shirt 1",
+            "price": 100
+        },
+        {
+            "name": "Shirt 2",
+            "price": 200
+        },
+        {
+            "name": "Shirt 3",
+            "price": 150
+        }
+    ]
+}

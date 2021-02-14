@@ -28,3 +28,4 @@ Repo to share code snippets covered in lectures for full stack development
 
 12. React.js Fundamentals:- [PPT](https://www.canva.com/design/DAEUxOlQpHI/CgcEIWVscSEBEITolZYftw/view?utm_content=DAEUxOlQpHI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
+13. React.js hooks and router:- [PPT](https://www.canva.com/design/DAEVWLWIx8g/VGb3WNeIt5VU9xrjOukssA/view?utm_content=DAEVWLWIx8g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) 

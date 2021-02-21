@@ -1,0 +1,14 @@
+{
+  "name": "backend-apis",
+  "version": "1.0.0",
+  "description": "Basic backend apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "codeclassifiers",
+  "license": "ISC"
+}

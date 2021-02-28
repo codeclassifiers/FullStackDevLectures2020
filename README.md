@@ -33,3 +33,8 @@ Repo to share code snippets covered in lectures for full stack development
 14. Redux and responsive web design:- [PPT](https://www.canva.com/design/DAEWAzdDqC8/q0BHBki1qcrD4eOcIDEf5w/view?utm_content=DAEWAzdDqC8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 15. Introduction to Node.js:- [PPT](https://www.canva.com/design/DAEWv1_E40k/-IzrnfJYRA7Rj4KoaNEWmg/view?utm_content=DAEWv1_E40k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+16. Node.js in detail:- [PPT](https://www.canva.com/design/DAEXUhtARrc/AxtO80U0H_ijF4-1NuQxeQ/view?utm_content=DAEXUhtARrc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) 
+
+17. Express js introduction:- [PPT](https://www.canva.com/design/DAEXYvM_5TA/9WAU2aeq_FDWdVYic4hB3g/view?utm_content=DAEXYvM_5TA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) 
+

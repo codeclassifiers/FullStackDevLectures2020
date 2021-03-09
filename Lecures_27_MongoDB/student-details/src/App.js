@@ -5,7 +5,7 @@ function App() {
   const [studentData, updateStudentDetails] = useState([]);
   async function fetchStudentDetails(params) {
     const studentDetails = await axios.get(
-      "https://fast-reef-15440.herokuapp.com/students/getDetails"
+      "<Heroku-server-url-to-be-added-here>"
     );
     const studentsArray = studentDetails.data.results;
     const studentsUIObject = studentsArray.map((item) => {

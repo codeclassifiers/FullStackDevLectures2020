@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-const characterModel = require("../models/chactersSchema");
+const characterModel = require("../models/charactersSchema");
 
 router.get("/getData", function (req, res) {
   characterModel.find({}, function (err, data) {

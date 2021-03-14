@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.grocery-item {
+  border: 1px solid lightgray;
+  padding: 10px;
+}
+
+.purchased {
+  text-decoration: line-through;
+}
+
+.grocery-actions {
+  margin-left: auto;
+}
+
+.form-element-container {
+  text-align: left;
+}

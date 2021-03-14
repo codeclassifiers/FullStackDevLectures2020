@@ -1,12 +1,13 @@
 /**
- * Module to show grovcery section in app
+ * Module to show grocery section in app
  */
 import { useEffect, useState } from "react";
 import { useHistory } from "react-router-dom";
 import axios from "axios";
 import classNamesModule from "classnames";
 import { AddGroceryItem } from "./AddGroceryItem";
-const API_BASE_URL = "http://localhost:8080";
+// TODO: Add your backend server URL here
+const API_BASE_URL = "";
 export function GrocerySection(props) {
   const [groceryItems, updateGroceryItems] = useState([]);
   const history = useHistory();

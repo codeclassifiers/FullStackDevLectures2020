@@ -38,3 +38,6 @@ Repo to share code snippets covered in lectures for full stack development
 
 17. Express js introduction:- [PPT](https://www.canva.com/design/DAEXYvM_5TA/9WAU2aeq_FDWdVYic4hB3g/view?utm_content=DAEXYvM_5TA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) 
 
+18. Introduction to Mongo DB:- [PPT](https://www.canva.com/design/DAEX-XxwkWU/41bpYGviH47PwnexAD8SoA/view?utm_content=DAEX-XxwkWU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+19. Fullstack development:- [PPT](https://www.canva.com/design/DAEYoP79UEQ/zFayuJCJUU1blhRbcivVPg/view?utm_content=DAEYoP79UEQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)

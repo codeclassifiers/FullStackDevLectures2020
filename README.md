@@ -41,3 +41,5 @@ Repo to share code snippets covered in lectures for full stack development
 18. Introduction to Mongo DB:- [PPT](https://www.canva.com/design/DAEX-XxwkWU/41bpYGviH47PwnexAD8SoA/view?utm_content=DAEX-XxwkWU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 19. Fullstack development:- [PPT](https://www.canva.com/design/DAEYoP79UEQ/zFayuJCJUU1blhRbcivVPg/view?utm_content=DAEYoP79UEQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+20. Developer Portfolio and Interview Concepts:- [PPT](https://www.canva.com/design/DAEZSJ9l_sA/Hj1LQqPpVh_x9IegIXWDVA/view?utm_content=DAEZSJ9l_sA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
